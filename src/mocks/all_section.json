@@ -1,0 +1,44 @@
+{
+  "boxtext": {
+    "eudcation": [{
+      "iconName": ""
+    },
+      {
+        "labelTitle": ""
+      },
+      {
+        "boxText": ""
+      }
+    ],
+    "work": [{
+      "iconName": ""
+    },
+      {
+        "labelTitle": ""
+      },
+      {
+        "boxText": ""
+      }
+    ],
+    "personalsk": [{
+      "iconName": ""
+    },
+      {
+        "labelTitle": ""
+      },
+      {
+        "boxText": ""
+      }
+    ],
+    "techsk": [{
+      "iconName": ""
+    },
+      {
+        "labelTitle": ""
+      },
+      {
+        "boxText": ""
+      }
+    ]
+  }
+}
